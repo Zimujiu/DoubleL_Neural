@@ -1,5 +1,4 @@
 # worker Mr.Li
-# time    9:04
 #两层神经网络（不用框架）
 #参考自： https://zhuanlan.zhihu.com/p/67682601
 
